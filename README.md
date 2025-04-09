@@ -1,6 +1,6 @@
-<h1>Hi 👋, I'm Cenedy</h1>
-# 👋 Hi there, I'm Cenedy Udoy Palma
-<p>A passionate fullstack developer from Bangladesh </p>
+<h1>👋 Hi there, I'm Cenedy Udoy Palma</h1>
+
+<p> # A passionate fullstack developer from Bangladesh </p>
 🚀 Tech Enthusiast | 💻 Software Developer | 🤖 AI & Computer Vision Researcher  
 Passionate about using technology to solve real-world problems in healthcare, security, and society.
 
