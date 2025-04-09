@@ -1,5 +1,17 @@
 <h1>Hi 👋, I'm Cenedy</h1>
+# 👋 Hi there, I'm Cenedy Udoy Palma
 <p>A passionate fullstack developer from Bangladesh </p>
+🚀 Tech Enthusiast | 💻 Software Developer | 🤖 AI & Computer Vision Researcher  
+Passionate about using technology to solve real-world problems in healthcare, security, and society.
+
+---
+
+### 🧠 About Me
+
+- 🎓 MSc in Information Technology | University of Dhaka  
+- 👨‍🎓 BSc in CSE | Notre Dame University Bangladesh  
+- 💡 I love combining **AI** and **Human-Centered Design** to create impactful solutions  
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
