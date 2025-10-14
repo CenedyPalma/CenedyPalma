@@ -54,9 +54,9 @@ Passionate about using technology to solve real-world problems in healthcare, se
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<h2>⚡️ Where to find me</h2>
+<!-- <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.facebook.com/https://www.facebook.com/canady.palma" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=CenedyPalma&show_icons=true&locale=en" alt="CenedyPalma" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CenedyPalma&" alt="CenedyPalma" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=CenedyPalma&show_icons=true&locale=en&layout=compact" alt="CenedyPalma" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CenedyPalma" alt="CenedyPalma" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CenedyPalma" alt="CenedyPalma" /></a></p> -->
