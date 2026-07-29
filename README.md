@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/cenedy-palma">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/canady.palma">
     <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:cenedypalma@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
